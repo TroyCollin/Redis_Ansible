@@ -2,7 +2,6 @@
 
 
 Change var file with your password:
-Like this:
 
 REDIS_PASSWORD: ********
 
